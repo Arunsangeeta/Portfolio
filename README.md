@@ -1,1 +1,3 @@
-# Portfolio
+# DATA ANALYST
+# EDUCATION
+# SKILLS 
