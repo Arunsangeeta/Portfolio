@@ -1,7 +1,9 @@
  # Data Analyst Portfolio
-<img align ="right" width="150" height="150" src="">
 
-## Introduction
+<img align ="right" width="180" height="180" src="https://github.com/Arunsangeeta/Portfolio/blob/main/gitcover.jpg">
+
+
+<b>Introduction</b><br>
 Hello!
 
 Welcome to my Portfolio. My name is Sangeeta Rani and I am excited to have you here!
